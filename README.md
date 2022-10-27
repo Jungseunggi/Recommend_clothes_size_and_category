@@ -25,6 +25,7 @@
 
 <img src="https://user-images.githubusercontent.com/102225200/198230092-470bedad-60d4-49e9-8d6e-7359f86daca1.png" width="400">
 
+- 본인은 데이터 수집 및 모델링 구현
 
 ### 3.1 데이터 수집
 
@@ -94,13 +95,13 @@
   - jogger의 경우 다른 팀원이 수집을 해줬는데 하반신만 나온 데이터를 수집(다른 데이터들은 전신사진으로 수집)하여 발생된 것으로 보임
   
  
-<img src="https://user-images.githubusercontent.com/102225200/198245664-4d6d405b-6db0-4e11-aad4-ca64ed01d6e8.png" width="600">
+<img src="https://user-images.githubusercontent.com/102225200/198245664-4d6d405b-6db0-4e11-aad4-ca64ed01d6e8.png" width="400">
 
 <sub> 왼쪽 : 초기, 오른쪽 : 최종</sub>
 
 - blouse의 경우 디자인이 매우 다양 -> 다양한 디자인의 데이터를 추가 수집
 
-<img src="https://user-images.githubusercontent.com/102225200/198246196-19a9fc6d-21a4-4558-b146-37d11d8bf8de.png" width="600">
+<img src="https://user-images.githubusercontent.com/102225200/198246196-19a9fc6d-21a4-4558-b146-37d11d8bf8de.png" width="400">
 
 <sub> 왼쪽 : 초기, 오른쪽 : 최종</sub>
 
